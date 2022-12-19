@@ -1,0 +1,10 @@
+# programming ideas
+
+# IDEAS
+
+* Rewrite the Linux [cat](https://en.wikipedia.org/wiki/Cat_(Unix)) command in Python
+
+# LINKS
+
+* [Write a link checker in NIM](https://xmonader.github.io/nimdays/day04_asynclinkschecker.html)
+
