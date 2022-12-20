@@ -2,7 +2,7 @@
 
 # IDEAS
 
-* Rewrite the Linux [cat](https://en.wikipedia.org/wiki/Cat_(Unix)) command in Python
+* Rewrite the Linux [cat](https://en.wikipedia.org/wiki/Cat_(Unix)) command
 
 # BLOG POSTS
 
